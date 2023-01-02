@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/quotes */
+/* eslint-disable @typescript-eslint/comma-dangle */
 import type { Equal, Expect } from "@type-challenges/utils"
 
 type cases = [
